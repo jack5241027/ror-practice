@@ -36,3 +36,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+
+# Ruby lint with bundle
+gem 'rubocop', require: false
